@@ -1,4 +1,4 @@
-# SCCGDH
+# SCCGDH For Image Retrieval
 The source code of “SCCGDH” 
 # Datasets
 Flikcr25k
