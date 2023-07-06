@@ -1,10 +1,11 @@
 # SCCGDH
 The source code of “SCCGDH” 
 # Datasets
-We used three cross-modal datasets for experiments.datasets are available by the following link:
-链接：https://pan.baidu.com/s/1swWZXWjC7B6ZHdAHZ90c4g 
-提取码：0xvx 
-
-
+Flikcr25k
+nuswide
+mscoco
+cifar10
+<span style="color:red;">Attention</span>
+This model is transformed into a single version of Image Retrieval , Not a Cross-model Retrieval 
 
 
